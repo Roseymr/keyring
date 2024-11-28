@@ -43,7 +43,7 @@
     "node": ">=14"
   },
   "dependencies": {
-    "@avalabs/avalanche-wallet-sdk": "0.7.3",
+    "@avalabs/avalanche-wallet-sdk": "0.18.2",
     "@binance-chain/javascript-sdk": "4.1.1",
     "@dfinity/agent": "0.9.3",
     "@dfinity/candid": "0.9.3",
@@ -68,7 +68,7 @@
     "@xchainjs/xchain-polkadot": "0.8.3",
     "@xchainjs/xchain-util": "0.3.1",
     "amd-loader": "0.0.8",
-    "axios": "0.21.1",
+    "axios": "1.7.8",
     "bchaddrjs": "0.5.2",
     "bigint-conversion": "2.1.12",
     "bip39": "3.0.4",
